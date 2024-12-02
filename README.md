@@ -1,5 +1,19 @@
-# 💫 About Me:
-Akrem Dridi is a dynamic 30-year-old Informatics Engineer with substantial expertise in web development. Boasting 3 years of dedicated web development experience and 5 years of overall technical experience, he brings a robust skill set to the software development landscape.<br>Technical Expertise:<br>Frontend and Backend Development: Specialized in JavaScript <br>ecosystem<br>Frameworks: React, Vue.js, Angular<br>Backend Technologies: Node.js, Express.js<br>Testing Frameworks: Jest, Mocha, Cypress<br>Deployment Tools: Docker, Kubernetes, Jenkins<br>Libraries: Axios, Redux, Lodash<br>State Management: Redux, MobX<br>UI Libraries: Material-UI, Tailwind CSS, Bootstrap<br>Akrem's technical prowess spans a comprehensive range of web technologies, enabling him to design and develop sophisticated, scalable web applications. His deep understanding of both frontend and backend development, combined with expertise in modern JavaScript frameworks and proficiency in testing and deployment strategies, establishes him as a versatile and skilled software engineer.
+## Akrem Dridi: Informatics Engineer
+
+Akrem Dridi is a **dynamic 30-year-old Informatics Engineer** with substantial expertise in web development. Boasting **3 years of dedicated web development experience** and **5 years of overall technical experience**, he brings a robust skill set to the software development landscape.
+
+### Technical Expertise
+
+* **Frontend and Backend Development**: Specialized in JavaScript ecosystem
+* **Frameworks**: React, Vue.js, Angular
+* **Backend Technologies**: Node.js, Express.js
+* **Testing Frameworks**: Jest, Mocha, Cypress
+* **Deployment Tools**: Docker, Kubernetes, Jenkins
+* **Libraries**: Axios, Redux, Lodash
+* **State Management**: Redux, MobX
+* **UI Libraries**: Material-UI, Tailwind CSS, Bootstrap
+
+Akrem's technical prowess spans a comprehensive range of web technologies, enabling him to design and develop sophisticated, scalable web applications. His deep understanding of both frontend and backend development, combined with expertise in modern JavaScript frameworks and proficiency in testing and deployment strategies, establishes him as a **versatile and skilled software engineer**.
 
 
 ## 🌐 Socials:
