@@ -1,6 +1,6 @@
 ## Akrem Dridi: Informatics Engineer
 
-Akrem Dridi is a **dynamic 30-year-old Informatics Engineer** with substantial expertise in web development. Boasting **3 years of dedicated web development experience** and **5 years of overall technical experience**, he brings a robust skill set to the software development landscape.
+Akrem Dridi is a **dynamic 30-year-old Informatics Engineer** with substantial expertise in web development. Boasting **1 years of dedicated web development experience** and **5 years of overall technical experience**, he brings a robust skill set to the software development landscape.
 
 ### Technical Expertise
 
